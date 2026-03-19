@@ -24,7 +24,15 @@
 - API backend com Java + Spring Boot  
 - CRUD completo (usuários, pedidos, produtos)  
 - Integração com banco de dados (H2 e PostgreSQL)  
-- Arquitetura em camadas (Controller, Service, Repository)  
+- Arquitetura em camadas (Controller, Service, Repository)
+
+  ###  Sisitema de gerenciamento de hotel
+  https://github.com/gustavo-jn/Hotel.git
+
+Aplicação web para gerenciamento de hotel com cadastro e controle de quartos, reservas e
+clientes, desenvolvida com PHP, JavaScript, interface responsiva com Bootstrap e persistência em
+MySQL.
+ 
 
 ---
 
