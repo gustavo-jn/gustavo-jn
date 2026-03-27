@@ -18,6 +18,12 @@
 
 ## Projetos em destaque
 
+###  Minha Leitura - Sistema de Livraria
+ https://github.com/gustavo-jn/livraria-minhaleitura
+
+Projeto de livraria desenvolvido em Java com Spring Boot, usando PostgreSQL para persistência, Spring Data JPA/Hibernate para acesso a dados, Spring Security para autenticação e autorização, e Thymeleaf para a interface web. Também utiliza Maven Wrapper para build e execução, além de JUnit 5, Mockito e Spring Security Test para testes automatizados.
+
+
 ###  API REST com Spring Boot
  https://github.com/gustavo-jn/workshop-springboot4-jpa
 
