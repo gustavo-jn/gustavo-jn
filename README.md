@@ -56,8 +56,4 @@ MySQL.
 - LinkedIn: https://www.linkedin.com/in/luis-gustavo-653ba71b4
 - Email: luisgustavo.email10@gmail.com
 
----
 
-##  Objetivo
-
-Busco oportunidade de estágio em desenvolvimento backend (Java / Spring Boot), onde eu possa evoluir tecnicamente e contribuir com projetos reais.
