@@ -10,6 +10,7 @@
 - Java
 - Spring Boot
 - JPA / Hibernate
+- Spring Security
 - PostgreSQL / MySQL
 - APIs REST
 - Git e GitHub
