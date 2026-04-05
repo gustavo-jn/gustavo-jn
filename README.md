@@ -19,6 +19,12 @@
 
 ## Projetos em destaque
 
+## Compras pet - Sistema de vendas para produtos pet
+https://github.com/gustavo-jn/compraspet.git
+
+Aplicacao web de e-commerce pet com backend Spring Boot (API REST + JWT) e frontend estatico (HTML/CSS/JS).
+
+
 ###  Minha Leitura - Sistema de Livraria
  https://github.com/gustavo-jn/livraria-minhaleitura
 
