@@ -19,6 +19,10 @@
 
 ## Projetos em destaque
 
+## Site para portifólio pessoal - https://gustavo-jn.github.io/portifolio/
+Meu portfolio para apresentação do meu perfil profissional, minhas principais habilidades e
+projetos
+
 ## Compras pet - Sistema de vendas para produtos pet
 https://github.com/gustavo-jn/compraspet.git
 
