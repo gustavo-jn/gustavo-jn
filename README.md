@@ -23,6 +23,12 @@
 Meu portfolio para apresentação do meu perfil profissional, minhas principais habilidades e
 projetos
 
+## Minha Leitura - Sistema de coleção de livros
+site: http://18.116.53.53:8080/
+github: https://github.com/gustavo-jn/livraria.git
+
+Projeto Spring Boot para gerenciamento de uma biblioteca pessoal. A aplicacao permite cadastro e login de usuarios, consulta e organizacao de livros, biblioteca do usuario e controle de status de leitura.
+
 ## Compras pet - Sistema de vendas para produtos pet
 https://github.com/gustavo-jn/compraspet.git
 
