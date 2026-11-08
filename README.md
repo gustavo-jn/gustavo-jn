@@ -19,9 +19,6 @@
 
 ## Projetos em destaque
 
-## Site para portifólio pessoal - https://gustavo-jn.github.io/portifolio/
-Meu portfolio para apresentação do meu perfil profissional, minhas principais habilidades e
-projetos
 
 ## Minha Leitura - Sistema de coleção de livros
 site: http://18.116.53.53:8080/
